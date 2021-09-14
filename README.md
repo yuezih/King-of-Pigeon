@@ -1,4 +1,4 @@
-# The King of Offer
+# King of Pigeon
 统计各个学校优营名单中出现最多的名字，寻找`2021年CS保研夏令营`中的`the king of offer`。  
 整这个烂活主要是 Coding 小白练习一下 Python 基本语法。由于懒得找数据，`data`中的数据有的用入营名单代替了，欢迎 pr 。  
 
