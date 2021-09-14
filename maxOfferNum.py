@@ -39,5 +39,4 @@ if __name__ == "__main__":
     for std in stds:
         if std.name[-1] == '\n':
             std.name = std.name[:-1]
-        print(f'{std.name} 拿了 {std.offerNum} 个 offer: ',end = '')
-        print(std.offers)
+        print(f'{std.name} 拿了 {std.offerNum} 个 offer: {std.offers}')
