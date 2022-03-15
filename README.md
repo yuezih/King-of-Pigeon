@@ -24,6 +24,16 @@
 
 这里有一些保研过程中可能用到的文书的模板，有需要的话欢迎借鉴。
 
+### Python Package Usage:
+```shell
+$ pip install upgrade pigeonking
+$ pigeonking
+```
+```python
+import pigeonking
+pigeonking.cat('<KEYS>') # keys 由 'pigeonking' shell指令获取
+```
+
 ### 1. 推荐信
 
 ---
