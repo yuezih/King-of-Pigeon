@@ -1,19 +1,31 @@
 # King of Pigeon
 
-统计各个学校优营名单中出现最多的名字，寻找`2021年CS保研夏令营`中的`king of pigeon`。  
-由于懒得找数据，`data`中的部分数据用入营名单代替了，欢迎 pr 。  
+![License](https://img.shields.io/github/license/yuezih/King-of-Pigeon?)
+![Issues](https://img.shields.io/github/issues/yuezih/King-of-Pigeon?color=blueviolet)
+![Forks](https://img.shields.io/github/forks/yuezih/King-of-Pigeon?color=orange)
+![Stars](https://img.shields.io/github/stars/yuezih/King-of-Pigeon?color=ff69b4)
 
-## One more thing
+统计各个学校优营名单中出现最多的名字，寻找2021年CS保研夏令营中的 **king of pigeon** 。  
 
-顺便在这里附一下[鸽子模板](#t1)和[鸽完回舔模板](#t2)，之前帮一个本科 EE 的朋友写的，他先跟老师说自己一定会去，又给老师鸽了，就这还想舔回来，老师没理他。活该。  
-如果有需要的话欢迎借鉴，**希望这些模板能帮助你鼓起勇气早点跟老师说明情况**。  
-> `2021-09-16` 新增了[套磁模板](#t3)和[确认offer模板](#t4)。最近有几位为考研复习了几个月的同学突然获得了保研资格，找我要模板准备极限预推免。  
+> _* Data is lacking and pulling requests are welcome._
 
-> `2021-09-17` 新增了[推荐信请求模板](#t5)和[推荐信模板](#t6)。  
+## What's New  
 
-> ~~`2021-11-07` 新增了[和导师暧昧/恋爱后如何提拒绝/分手](#t7)。最近有群友遇到感情问题，暧昧完了想撇清关系但不知道怎么开口，提供两个万能模板，不需要任何契机。~~  
+- [ ] `2022/03/15` Some updates to meet 100 stars!
+- [ ] `2022/03/14` We published a [Python package](https://pypi.org/project/pigeonking/) with the Python Package Index, try `pip install pigeonking && pigeonking`!
+- [ ] `2022/03/14` Reimplemented the code with Github Copilot.
+- [ ] `2021/11/07` ~~Added [_How to Mention Breakup After Falling in Love with Your Mentor_](#t7) template.~~
+- [ ] `2021/09/17` Added [_Recommendation Letter Request_](#t5) and [_Recommendation Letter_](#t6) templates.
+- [ ] `2021/09/16` Added [_Self-recommendation Letter_](#t3) template and [_Offer Confirmation_](#t4) template.
+- [ ] `2021/09/14` Published [_Pigeoning_](#t1) and [_Licking Back_](#t2) template. We hope these templates will help you get up the courage to explain to the mentor **as soon as possible**.
+
+## Awesome Pigeon
+
+这里有一些保研过程中可能用到的文书的模板，有需要的话欢迎借鉴。
 
 ### 1. 推荐信
+
+---
 
 <span id="t5"></span>
 
@@ -27,6 +39,8 @@
 **报喜答谢**  
 `朱老师`，您好！  
 在您的有力推荐下，我已顺利通过`中科大计算机学院`夏令营考核、拿到心仪导师的直博offer，并确定为最终去向。非常感谢老师在我保研过程中对我的支持和帮助，同时也感谢您在`编译原理`课程中的辛勤付出和对我们的悉心教导。我会继续努力，不辜负老师的教育和期待。衷心祝愿老师工作顺利、生活愉快！  
+
+---
 
 <span id="t6"></span>
 
@@ -45,6 +59,8 @@
 我认为，他所表现出的种种好的习惯、态度和品质，一定可以帮助他在未来的研究中取得优异的成绩；另一方面，通过近两年的科研训练，他已经历了从理论学习、实验设计到数据分析、论文撰写这样一个完整的训练，具备了不错的科研基础。因此，我相信他是一位可塑之才，即使切换到一个全新的科研方向，他也能够快速入门、学有所成。  
 衷心希望贵院给予`张忝苟`继续深造的机会，让他在祖国的计算机领域发光发热！  
 
+---
+
 <span id="t3"></span>
 
 ### 2. 套磁
@@ -62,11 +78,15 @@
 E-mail: tiangou@std.uestc.edu.cn  
 Tel/Wechat: 199-2021-0916  
 
+---
+
 <span id="t4"></span>
 
 ### 3. 确认offer
 
 `张老师`您好，我是`张忝苟`，我确定来您这边读博，不会再有变数。非常感谢老师对我的认可，如果您有其它事宜嘱咐，请您随时联系我。很抱歉这么晚回复，希望没有打扰到您。谢谢老师！  
+
+---
 
 <span id="t1"></span>
 
@@ -76,6 +96,8 @@ Tel/Wechat: 199-2021-0916
 此前我已拿到`南京大学`的推荐资格，但老师告诉我没有学硕名额了，而后又很惊喜、很幸运地收到了您的邀请。彼时彼刻，我几乎完全不需要纠结，所以很快给了您一个确切答复。本以为不会再有变数，但`南大`老师突然通知有学硕名额候补到我，实在没想到会有这么一出，这突如其来的消息让我坐立难安。  
 说实话，我不知道自己能不能在科研这条路上一直走下去，而**作为寒门独子，读博的风险需要我的家人和我一起承担。于理而言，硕士对我来说无疑是更合适的选择；但于情而言，我又已向您给出承诺，一言既出，驷马难追。经过漫长的心理斗争，我最终还是决定，用我这一次的背信弃义，换取一条在未来很长一段时间更适合我的道路**。从另一方面来讲，如果我不能直面直博的风险，同时又心系就业，这种分心或许也会严重影响我读博期间的科研工作，既不利于自己的成果产出，更辜负您的悉心栽培，所以我可能本来就不是一个合格的候选人，也衷心希望老师能招到更合适的学生。  
 给您这样的消息，我感到非常难受、煎熬，**但我相信您此刻的心情一定比我更糟糕**。我知道我的行为给您和学院的招生工作带来了很大的麻烦，更伤害了您的感情，我为我的所作所为再次真诚道歉，也恳请老师谅解。最后，祝老师科研顺利，生活顺心，阖家幸福，万事胜意！  
+
+---
 
 <span id="t2"></span>
 
@@ -91,9 +113,17 @@ Tel/Wechat: 199-2021-0916
 > <span id="f1">[1](#a1)</span> *这句话用来美化自己的鸽子行为*  
 > <span id="f2">[2](#a2)</span> *因为之前鸽的时候说过自己害怕读博风险，这里洗一洗*  
 
+---
+
 ### 6. 再鸽
 
-> 超出能力范围了，这边建议以死谢罪。  
+> 超出能力范围了，暂无参考。  
 > 如果硬要再鸽的话，就找一个不可抗力因素当作借口吧，比如：
   
-老师，我嫖娼被抓，失去了保研资格，抱歉。  
+老师，我嫖娼被抓，保研资格没了，抱歉。
+
+---
+
+### 7. 节日祝福
+
+> _* Coming soon._
