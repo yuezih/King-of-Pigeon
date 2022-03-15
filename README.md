@@ -1,6 +1,7 @@
 # King of Pigeon
 
 ![License](https://img.shields.io/github/license/yuezih/King-of-Pigeon?)
+![PyPI](https://img.shields.io/pypi/v/pigeonking?color=blue)
 ![Issues](https://img.shields.io/github/issues/yuezih/King-of-Pigeon?color=blueviolet)
 ![Forks](https://img.shields.io/github/forks/yuezih/King-of-Pigeon?color=orange)
 ![Stars](https://img.shields.io/github/stars/yuezih/King-of-Pigeon?color=ff69b4)
