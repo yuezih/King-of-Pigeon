@@ -8,7 +8,7 @@
 
 统计各个学校优营名单中出现最多的名字，寻找2021年CS保研夏令营中的 **king of pigeon** 。  
 
-> _* Data is lacking and pulling requests are welcome._
+> _* Data is lacking and pull requests are welcome._
 
 ## What's New  
 
@@ -31,7 +31,7 @@ $ pigeonking
 ```
 ```python
 import pigeonking
-pigeonking.cat('<KEYS>') # keys 由 'pigeonking' shell指令获取
+pigeonking.cat('repigeon') # 以'repigeon'为例
 ```
 
 ### 1. 推荐信
