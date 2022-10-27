@@ -1,100 +1,111 @@
-# King of Pigeon
+<div>
+  <h2 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/pigeon.png" width="40" />
+      King of Pigeon：计算机保研文书实用模板
+  </h2>
+</div>
 
-![License](https://img.shields.io/github/license/yuezih/King-of-Pigeon?)
-![PyPI](https://img.shields.io/pypi/v/pigeonking?color=blue)
-![Issues](https://img.shields.io/github/issues/yuezih/King-of-Pigeon?color=blueviolet)
-![Forks](https://img.shields.io/github/forks/yuezih/King-of-Pigeon?color=orange)
-![Stars](https://img.shields.io/github/stars/yuezih/King-of-Pigeon?color=ff69b4)
-
-统计各个学校优营名单中出现最多的名字，寻找2021年CS保研夏令营中的 **king of pigeon** 。  
-
-> _* Data is lacking and pull requests are welcome._
-
-## What's New  
-
-- [ ] `2022/04/08` Added [_Resume (or CV)_](#简历) template and [_Festival Wishes_](#节日祝福) templates.
-- [ ] `2022/03/15` Some updates to meet 100 stars!
-- [ ] `2022/03/14` We published a [Python package](https://pypi.org/project/pigeonking/) with the Python Package Index, try `pip install pigeonking && pigeonking`!
-- [ ] `2022/03/14` Reimplemented the code with Github Copilot.
-- [ ] `2021/11/07` ~~Added [_How to Mention Breakup After Falling in Love with Your Mentor_](#t7) template.~~
-- [ ] `2021/09/17` Added [_Recommendation Letter Request_]() and [_Recommendation Letter_](#t6) templates.
-- [ ] `2021/09/16` Added [_Self-recommendation Letter_](#t3) template and [_Offer Confirmation_](#t4) template.
-- [ ] `2021/09/14` Published [_Pigeoning_](#t1) and [_Licking Back_](#t2) template. We hope these templates will help you get up the courage to explain to the mentor **as soon as possible**.
-
-## Awesome Pigeon
-
-这里有一些保研过程中可能用到的文书的模板，有需要的话欢迎借鉴。
-
-### Python Package Usage:
-```shell
-$ pip install upgrade pigeonking
-$ pigeonking
-```
-```python
-import pigeonking
-pigeonking.cat('repigeon') # 以'repigeon'为例
-```
-> 谁能教教我怎么在命令行里直接传参啊…… 比如`$ pigeonking 'rec'`
+<p align="center">
+  	<a >
+      <img alt="License" src="https://img.shields.io/github/license/yuezih/King-of-Pigeon?" />
+    </a>
+    <a >
+       <img alt="Issues" src="https://img.shields.io/github/issues/yuezih/King-of-Pigeon?color=blueviolet" />
+  	</a>
+    <a >
+       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
+  	</a>
+    <a >
+       <img alt="Forks" src="https://img.shields.io/github/forks/yuezih/King-of-Pigeon?color=orange" />
+  	</a>
+    <a >
+       <img alt="Stars" src="https://img.shields.io/github/stars/yuezih/King-of-Pigeon?color=ff69b4" />
+  	</a>
+    <br />
+</p>
 
 ---
 
-### 简历
 
-> 本仓库提供了一份简历模板[【点击下载】](files/Resume_ztg.pptx)，以及一些制作简历时的建议，希望对你有所帮助。
+<div>
+  <h3 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/inspiration.png" width="30" />
+    What's New
+  </h2>
+</div>
+
+- [ ] `2022/10/27` Overhauled and removed some useless content. 
+- [ ] `2022/04/08` Added [_Resume (or CV)_](#t1) template and [_Festival Wishes_](#t8) templates. 
+- [ ] `2022/03/15` Some updates to meet 100 stars! 
+- [ ] `2022/03/14` ~~We published a [Python package](https://pypi.org/project/pigeonking/) with the Python Package Index, try `pip install pigeonking && pigeonking`!~~ 
+- [ ] `2022/03/14` ~~Reimplemented the code with Github Copilot.~~ 
+- [ ] `2021/11/07` ~~Added [_How to Breakup Without Just Cause_]() template.~~ 
+- [ ] `2021/09/17` Added [_Recommendation Letter Request_](#t2) and [_Recommendation Letter_](#t2) templates. 
+- [ ] `2021/09/16` Added [_Self-recommendation Letter_](#t3) template and [_Offer Confirmation_](#t4) template. 
+- [ ] `2021/09/14` Published [_Pigeoning_](#t5) and [_Licking Back_](#t6) template. We hope these templates will help you get up the courage to explain to the mentor **as soon as possible**. 
+
+
+<span id="t1"></span>
+<div>
+  <h3 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/ppt.png" width="30" />
+      简历
+  </h2>
+</div>
+
+本仓库提供了一份简历模板[【点击下载】](https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/Resume_ztg.pptx)，以及一些制作简历时的建议，希望对你有所帮助。
 
 **1. 概览**  
 - [ ] 该模板由PPT制作，修改后可导出为PDF。背景是一张与页面等大的白色图片，便于全选-另存为图片-以图片形式分享。  
-- [ ] 照片不建议使用红底/蓝底，可以用Office自带的抠图工具（双击图像激活选项卡中的图片格式，菜单栏最左侧“删除背景”）将人像抠出来，放到一个浅色或者渐变灰的背景上。  
+- [ ] 照片不建议使用红底/蓝底（个人感觉不太好看），可以用Office自带的抠图工具（双击图像激活选项卡中的图片格式，菜单栏最左侧“删除背景”）将人像抠出来，放到一个浅色或者渐变灰的背景上。  
 - [ ] 字号、不同板块的间距等可以根据内容的丰富程度随机应变，如果内容比较少，就把字号调大一些，板块间距拉开一些。
 
 **2. 扬长避短**  
 - [ ] 科研、竞赛、项目等板块自由度比较高，如果某一方面薄弱，可以用较长篇幅强调一下其它方面，占一下位置。比如模板简历中，张忝苟没有竞赛，那么就把科研经历和项目经历展开叙述，直接不写竞赛。
-- [ ] 分清主次，各板块之间的比重要有区分，学生工作、社会实践的篇幅要小于科研经历等重要部分，否则反而会成为减分项。
+- [ ] 分清主次，各板块之间的比重要有区分，学生工作、社会实践的篇幅要小于科研经历等重要部分，简历要力求呈现老师希望你具备的能力。
 
-**3. Emm**  
-- [ ] 有个很重要的点想claim，正要写的时候脑子突然短路，想了一晚上也没想起来......先留个坑，如果哪天想起来了再来补上，不好意思...
-
-**4. 宁缺毋滥，点到为止**  
-- [ ] 自己有一些含金量不那么高的东西时，不宜把所有东西都写上去，可以利用`等`来收纳这些内容。比如张忝苟除了国奖，剩下的都是一些水奖，那就只用一行来概括荣誉奖项，在后面加一个`体育/文艺类奖项若干 等`，**既可以缓解张忝苟没什么奖的尴尬，又能给老师一种这个`等`字里面还有100个水奖的错觉，还能体现张忝苟视奖项如粪土的高冷和不屑——竟然只用一句话就云淡风轻地概括了自己的辉煌**。
+**3. 宁缺毋滥，点到为止**  
+- [ ] 自己有一些含金量不那么高的东西时，不宜把所有东西都写上去，可以利用`等`来收纳这些内容。比如张忝苟除了国奖，剩下的都是一些水奖，那就只用一行来概括荣誉奖项，在后面加一个`体育/文艺类奖项若干 等`，**既可以缓解张忝苟没什么奖的尴尬，又能给老师一种这个`等`字里面还有很多水奖的错觉，还能通过这种高冷和不屑的态度体现张忝苟独具一格的不俗品味**。
 - [ ] 这个`等`字需要把控好程度，但凡有一点含金量都是可以写上去的，然后配合简历排版（字号、间距等），内容刚好铺满整个页面时，**老师就会觉得你简历里那个`等`是因为简历放不下了才没写上去的**，而不是因为太水了。同时，要注意水奖守门员的选取，也就是列出来的最后一个奖项，你省略的肯定比这个更水，守门员不能太拉垮。
 - [ ] 有的同学知道自己奖项不多，为了让它看起来多一点，喜欢每个奖占一行，排成一个列表。这样其实并不好，老师就会知道**你所有的奖都在这里了**，一个多的都没有。个人建议还是采取轻描淡写策略，然后在其它板块多下点功夫。（除非实在写不满一页了）
 
-**5. 语言的艺术**  
+**4. 语言的艺术**  
 - [ ] 简历用语要精炼，避免口水话。除此之外要**注意修饰**，不想多说，举几个例子吧~
-- [ ] 大创负责人可以怎么说？`作为负责人主持大创项目一项，带领团队……`或者`独立主持大创项目……`
-- [ ] 大创高开低走怎么办？扬长避短：`中期审查优秀（29/112），已顺利结题`
+- [ ] 大创负责人可以说`作为负责人主持大创项目一项，带领团队……`或者`独立主持大创项目……`
+- [ ] 大创高开低走可以扬长避短：`中期审查优秀（29/112），已顺利结题`
 - [ ] `申请专利“xxx”`改成`以发明人身份提交专利“xxx”,目前正在受理中`
 - [ ] 大创实在没成果可以说`目前已取得阶段性成果`
 - [ ] `“小小早餐”调研队队长`改成`校园餐饮服务调研队队长`
-- [ ] 还有一些细节，比如 rk1 就不用再说百分比了。
+- [ ] 还有一些其它的细节，比如 rk1 就不用再说百分比了。
 
----
 
-### 推荐信
+<span id="t2"></span>
+<div>
+  <h3 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/notebook.png" width="40" />
+      推荐信
+  </h3>
+</div>
 
-<span id="t5"></span>
-
-**推荐信请求**  
+**1. 推荐信请求**  
 亲爱的`朱老师`，  
 我是您上学期`《编译原理》`课上的学生`张忝苟`，最近打算报名参加`中科大计算机学院`的保研考核，对方学院有推荐信要求，请问老师是否愿意帮我署名一份推荐信呢？  
 如果可以的话，我写一份初稿，随附简历发送给您，待内容确认之后，我打印好去找您签字。（或有其它安排，依老师吩咐）  
 如果老师比较忙不方便，还请老师告知，我就不打扰老师了。  
 谢谢老师！  
 
-**报喜答谢**  
+**2. 报喜答谢**  
 `朱老师`，您好！  
 在您的有力推荐下，我已顺利通过`中科大计算机学院`夏令营考核、拿到心仪导师的直博offer，并确定为最终去向。非常感谢老师在我保研过程中对我的支持和帮助，同时也感谢您在`编译原理`课程中的辛勤付出和对我们的悉心教导。我会继续努力，不辜负老师的教育和期待。衷心祝愿老师工作顺利、生活愉快！  
 
-<span id="t6"></span>
-
-**推荐信模板：任课老师版**  
+**3.1 推荐信模板：任课老师版**  
 尊敬的`中科大计算机学院`领导，  
 您好！我是`电子科技大学计算机学院`的`朱朝阳`，是`张忝苟` `《编译原理》`课程的授课老师。很高兴作为推荐人向贵单位推荐`忝苟`攻读博士学位。  
 `忝苟`是大三转专业过来的，此前我并不认识他，但这个每次上课坐在第一排正对着讲台的男孩给了我很深的印象。在我眼里，他是那种专注踏实、喜欢独立思考的“内敛型学霸”，没问过我问题，也几乎从来不在课堂上回答问题，然后一声不吭地在我的期中考试中拿了满分。对于`《编译原理》`这样一门高难度的专业课，这样令人满意的表现离不开他的认真踏实、聪明细心。在课堂之外，我观察到他积极参加学院老师的讲座，了解学科发展的前沿，拓展视野，也帮助自己更好地选择未来的研究方向，是一个有想法、有规划的学生。  
 作为一名从教十年的老师，我认为`忝苟`在课程学习中所体现出的诸多特质对于他将来的学习和研究大有裨益，也展现了他的科研潜力。我了解到他过去在`材料学院`的导师指导下已经有了不错的科研成果，虽然这些跟他未来的研究方向可能完全无关，但这无疑说明他已经有了一定的科研基础，也具备一定的科研能力。因此，我非常相信他可以胜任直博生的科研工作，自律踏实，有想法、有能力，在贵单位的栽培下，一定可以取得出色的成就。  
 真诚地希望贵单位考虑一下这位优秀的候选人，也期待`忝苟`能在贵单位找到自己的“伯乐”！预祝研招工作顺利！  
 
-**推荐信模板：科研导师版**  
+**3.2 推荐信模板：科研导师版**  
 尊敬的贵学院评审委员，  
 您好！  
 我是`电子科技大学材料学院`教授`刘华强`，是`张忝苟`本科期间的科研导师。我了解到他准备申请贵院的博士研究生，特向您予以推荐！  
@@ -102,11 +113,14 @@ pigeonking.cat('repigeon') # 以'repigeon'为例
 我认为，他所表现出的种种好的习惯、态度和品质，一定可以帮助他在未来的研究中取得优异的成绩；另一方面，通过近两年的科研训练，他已经历了从理论学习、实验设计到数据分析、论文撰写这样一个完整的训练，具备了不错的科研基础。因此，我相信他是一位可塑之才，即使切换到一个全新的科研方向，他也能够快速入门、学有所成。  
 衷心希望贵院给予`张忝苟`继续深造的机会，让他在祖国的计算机领域发光发热！  
 
----
 
 <span id="t3"></span>
-
-### 套磁
+<div>
+  <h3 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/email.png" width="40" />
+      套磁
+  </h3>
+</div>
 
 亲爱的`张兰老师`，  
 您好！见字如面。  
@@ -121,57 +135,69 @@ pigeonking.cat('repigeon') # 以'repigeon'为例
 E-mail: tiangou@std.uestc.edu.cn  
 Tel/Wechat: 199-2021-0916  
 
----
 
 <span id="t4"></span>
-
-### 确认offer
+<div>
+  <h3 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/good.png" width="40" />
+      确认offer
+  </h3>
+</div>
 
 `张老师`您好，我是`张忝苟`，我确定来您这边读博，不会再有变数。非常感谢老师对我的认可，如果您有其它事宜嘱咐，请您随时联系我。很抱歉这么晚回复，希望没有打扰到您。谢谢老师！  
 
----
 
-<span id="t1"></span>
-
-### 鸽
+<span id="t5"></span>
+<div>
+  <h3 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/poker.png" width="40" />
+      鸽
+  </h3>
 
 `张老师`您好，我怀着万分愧疚的心情告诉您，我打算放弃您的博士名额了，请先允许我向您诚挚地道歉。  
 此前我已拿到`南京大学`的推荐资格，但老师告诉我没有学硕名额了，而后又很惊喜、很幸运地收到了您的邀请。彼时彼刻，我几乎完全不需要纠结，所以很快给了您一个确切答复。本以为不会再有变数，但`南大`老师突然通知有学硕名额候补到我，实在没想到会有这么一出，这突如其来的消息让我坐立难安。  
 说实话，我不知道自己能不能在科研这条路上一直走下去，而**作为寒门独子，读博的风险需要我的家人和我一起承担。于理而言，硕士对我来说无疑是更合适的选择；但于情而言，我又已向您给出承诺，一言既出，驷马难追。经过漫长的心理斗争，我最终还是决定，用我这一次的背信弃义，换取一条在未来很长一段时间更适合我的道路**。从另一方面来讲，如果我不能直面直博的风险，同时又心系就业，这种分心或许也会严重影响我读博期间的科研工作，既不利于自己的成果产出，更辜负您的悉心栽培，所以我可能本来就不是一个合格的候选人，也衷心希望老师能招到更合适的学生。  
 给您这样的消息，我感到非常难受、煎熬，**但我相信您此刻的心情一定比我更糟糕**。我知道我的行为给您和学院的招生工作带来了很大的麻烦，更伤害了您的感情，我为我的所作所为再次真诚道歉，也恳请老师谅解。最后，祝老师科研顺利，生活顺心，阖家幸福，万事胜意！  
 
----
 
-<span id="t2"></span>
-
-### 回舔
+<span id="t6"></span>
+<div>
+  <h3 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/poker.png" width="40" />
+      回舔
+  </h3>
+</div>
 
 `张老师`您好，很抱歉又来打扰您，没想到这样戏剧性的一幕居然会发生在我身上：我误解了`南大`老师的意思，以为自己得到了学硕offer，但今天才得知学硕名额无法保证（老师的语言极具迷惑性，我身边几位同学也跟我有同样的遭遇）。  
-前几天，我接到`南大`老师的“口头offer”，并最终决定选择`南大`时，**由于害怕耽误您招生，给您造成更大的伤害，我第一时间向您传达了放弃直博名额的决定**<sup id="a1">[1](#f1)</sup>，对此，我至今仍心存歉意。但如今，`南大`老师的飘忽不定，让我对这所学校丧失信心。尽管仍有机会录取为学硕，但我已决定不再考虑，而是下定决心重返`科大`，潜心科研<sup id="a2">[2](#f2)</sup>。  
+前几天，我接到`南大`老师的“口头offer”，并最终决定选择`南大`时，**由于害怕耽误您招生，给您造成更大的伤害，我第一时间向您传达了放弃直博名额的决定**，对此，我至今仍心存歉意。但如今，`南大`老师的飘忽不定，让我对这所学校丧失信心。尽管仍有机会录取为学硕，但我已决定不再考虑，而是下定决心重返`科大`，潜心科研。  
 **然而，面对您的邀请，短短几天之内，我先是明确地肯定，又是不舍地放弃，反复无常的态度，不但给您带来了很多麻烦，更伤害了您的感情。如今，我已无颜再面对您，更不敢奢求您重新给我一次机会。而且，以老师享誉学界的通才硕学，相信老师也已经有了更优秀的人选。**  
 但今天冒昧打扰您，是想跟您说，如果老师您依然留有宝贵的名额，并且愿意给我机会，我将无比乐意地接受并给出绝对可靠的承诺，并即刻加入课题组，惜时如金，开启科研生活。  
 出生二十年，从来没有整过这么大的幺蛾子，不知我的行为在您看来是可笑还是可气，反正我已对自己彻底无语……也许您已对我失去信心，但倘若有机会，我将在未来的几年中，用尽我全力来弥补。  
 感谢老师愿意读到这里，再次向您道歉。  
 
-> <span id="f1">[1](#a1)</span> *这句话用来美化自己的鸽子行为*  
-> <span id="f2">[2](#a2)</span> *因为之前鸽的时候说过自己害怕读博风险，这里洗一洗*  
-
----
-
-### 再鸽
+<span id="t7"></span>
+<div>
+  <h3 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/poker.png" width="40" />
+      再鸽
+  </h3>
+</div>
 
 > 超出能力范围了，暂无参考。  
 > 如果硬要再鸽的话，就找一个不可抗力因素当作借口吧，比如：
   
 老师，我嫖娼被抓，保研资格没了，抱歉。
 
----
-
-### 节日祝福
+<span id="t8"></span>
+<div>
+  <h3 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/messages.png" width="40" />
+      节日祝福
+  </h3>
+</div>
 
 **新年祝福**  
-【V1-1】亲爱的张老师，岁除之夜，辞旧迎新！祝您家兴人和事顺遂，永远年轻、充满活力，春风桃李，百木成林。带着满满的祝福，大家携手向未来！  
-【V1-2】亲爱的张老师，新年到了，祝您和家人新春愉快，天天开心，生活顺顺当当，身体健健康康！祝您在新的一年里工作顺利、科研顺心，万事胜意！  
-【V2-1】亲爱的逸尘师姐，岁除之夜，辞旧迎新！祝你和家人新春愉快，虎年大吉！`新的一年再携书卷，剑指南溟，继续带领大家共同成长！`/`天高地阔任君跃，愿师姐新的一年蜚英腾茂，大展宏图！`/`感谢师姐的悉心帮助，预祝工作顺利，万事胜意！`/`奋斗有为正青春，愿新的一年再携书卷、直济沧海！`/`(同级)十六载寒窗试锋芒，愿新的一年踔厉奋发，求皆如愿，我们一起进步成长！`
-
-> _* To be continued..._
+- 亲爱的张老师，岁除之夜，辞旧迎新！祝您家兴人和事顺遂，永远年轻、充满活力，春风桃李，百木成林。带着满满的祝福，大家携手向未来！
+- 亲爱的张老师，新年到了，祝您和家人新春愉快，天天开心，生活顺顺当当，身体健健康康！祝您在新的一年里工作顺利、科研顺心，万事胜意！
+- 亲爱的师姐，岁除之夜，辞旧迎新！祝你和家人新春愉快，虎年大吉！`新的一年再携书卷，剑指南溟，继续带领大家共同成长！`/`天高地阔任君跃，愿师姐新的一年蜚英腾茂，大展宏图！`/`感谢师姐的悉心帮助，预祝工作顺利，万事胜意！`/`奋斗有为正青春，愿新的一年再携书卷、直济沧海！`/`(同级)十六载寒窗试锋芒，愿新的一年踔厉奋发，求皆如愿，我们一起进步成长！`
+- _To be continued..._
