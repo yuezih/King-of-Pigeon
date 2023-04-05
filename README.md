@@ -26,6 +26,7 @@
 
 ---
 
+**Our [AIM3 Lab](https://www.ruc-aim3.com) is now accepting applications from undergraduate students graduating in 2024!** If you are interested in joining us and contributing to the exciting work we are doing, please do not hesitate to contact me on WeChat at `yzihaao`.
 
 <div>
   <h3 align="center">
