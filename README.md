@@ -1,17 +1,11 @@
 <div>
   <h2 align="center">
-    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/pigeon.png" width="40" />
+    <img src="./assets/icon/pigeon.png" width="40" />
       King of Pigeon：计算机保研文书实用模板
   </h2>
 </div>
 
 <p align="center">
-  	<a >
-      <img alt="License" src="https://img.shields.io/github/license/yuezih/King-of-Pigeon?" />
-    </a>
-    <a >
-       <img alt="Issues" src="https://img.shields.io/github/issues/yuezih/King-of-Pigeon?color=blueviolet" />
-  	</a>
     <a >
        <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
   	</a>
@@ -24,34 +18,37 @@
     <br />
 </p>
 
+> 嗨！大家好！  
+本人本科毕业多年，仓库年久失修，没想到还有这么多同学陆续关注和star，感谢支持！这里很多内容如今回看多已过时，不知还能否提供帮助，我看到网上也有很多优质全面的资料，比如[摸鱼ing@知乎](https://zhuanlan.zhihu.com/p/615923570)的帖子，供大家参考。**本仓库也欢迎大家pr！**  
+另外，[我们实验室](https://www.ruc-aim3.com/)近期也在招生，欢迎大家关注！
+
+
 <div>
-  <h3 align="center">
-    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/inspiration.png" width="30" />
+  <h3 align="left">
+    <img src="./assets/icon/inspiration.png" width="30" />
     What's New
   </h2>
 </div>
 
-2023年9月18日更新：
 
-为避免对保研风气产生不正影响，本仓库已删除与「鸽」相关的部分内容。  
-在创建之初，本仓库就置顶标明立意，即如果不得不放弃offer，“希望这些模板能帮助你鼓起勇气早点跟老师说明情况”，避免给老师带来更深的困扰。本仓库无意于鼓励放鸽子的行为。而且在当时，放鸽子确实是一种令人唾弃的突破底线的行为，在规则之外还受到很强的道德约束。然而，根据我近两年接触到的情况，放鸽子似乎已经成为一种普遍行为，越来越多的同学大言不惭地给老师非常诚恳的承诺，然后不负责任地离开[1]。作为这些模板的作者，我自己从未鸽过任何老师，早在7月跟导师确认意向后就直接上岸，完全没有过骑驴找马的想法，不禁感慨世风日下，人心不古。因此，由于不确定本仓库是否会助长保研中的恶劣风气，相关内容已删除。
 
-[1] 以我所在实验室为例，2023年秋季直博名额已经先后被4名同学鸽过，包括北理工H某某，北理工J某某，东北大学W某某，中南大学X某某，均为嘴上百分之百来，实则心怀鬼胎，令人感慨。作为师兄，我曾在讨论完课题之后给其中某些同学微信发了2000字量身定制的入门建议，发自肺腑地想帮新同学少走弯路尽快入门，结果觉得指导不够明确鸽了，6死我了。
+`2023-09-18` 为避免对保研风气产生不正影响，本仓库已删除与「鸽」相关的部分内容。  
+
 
 <span id="t1"></span>
 <div>
-  <h3 align="center">
-    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/ppt.png" width="30" />
+  <h3 align="left">
+    <img src="./assets/icon/ppt.png" width="30" />
       简历
   </h2>
 </div>
 
-本仓库提供了一份简历模板[【点击下载】](assets/Resume_ztg.pptx)，以及一些制作简历时的建议，希望对你有所帮助。
+[【简历模板】](./assets/resume-ztg.pptx)
 
-**1. 概览**  
-- [ ] 该模板由PPT制作，修改后可导出为PDF。背景是一张与页面等大的白色图片，便于全选-另存为图片-以图片形式分享。  
-- [ ] 照片不建议使用红底/蓝底（个人感觉不太好看），可以用Office自带的抠图工具（双击图像激活选项卡中的图片格式，菜单栏最左侧“删除背景”）将人像抠出来，放到一个浅色或者渐变灰的背景上。  
-- [ ] 字号、不同板块的间距等可以根据内容的丰富程度随机应变，如果内容比较少，就把字号调大一些，板块间距拉开一些。
+**1. 总览**  
+- [ ] 该模板由PPT制作，修改后可导出为PDF。
+- [ ] 红/蓝底证件照可以用Office自带的抠图工具（`图片格式`-`删除背景`）将人像抠出来，放到一个浅色背景上。  
+- [ ] 字号、不同板块的间距等可以根据内容的丰富程度随机应变，如果内容比较少，就把字号调大一些，板块间距拉开一些。选中多个板块之后，可以通过`排列`-`对齐`-`纵向分散`快速统一间距。
 
 **2. 扬长避短**  
 - [ ] 科研、竞赛、项目等板块自由度比较高，如果某一方面薄弱，可以用较长篇幅强调一下其它方面，占一下位置。比如模板简历中，张忝苟没有竞赛，那么就把科研经历和项目经历展开叙述，直接不写竞赛。
@@ -61,21 +58,13 @@
 - [ ] 自己有一些含金量不那么高的东西时，不宜把所有东西都写上去，可以利用`等`来收纳这些内容。比如张忝苟除了国奖，剩下的都是一些水奖，那就只用一行来概括荣誉奖项，在后面加一个`体育/文艺类奖项若干 等`，**既可以缓解张忝苟没什么奖的尴尬，又能给老师一种这个`等`字里面还有很多水奖的错觉，还能通过这种高冷和不屑的态度体现张忝苟独具一格的不俗品味**。
 - [ ] 这个`等`字需要把控好程度，但凡有一点含金量都是可以写上去的，然后配合简历排版（字号、间距等），内容刚好铺满整个页面时，**老师就会觉得你简历里那个`等`是因为简历放不下了才没写上去的**，而不是因为太水了。同时，要注意水奖守门员的选取，也就是列出来的最后一个奖项，你省略的肯定比这个更水，守门员不能太拉垮。
 - [ ] 有的同学知道自己奖项不多，为了让它看起来多一点，喜欢每个奖占一行，排成一个列表。这样其实并不好，老师就会知道**你所有的奖都在这里了**。个人建议还是采取轻描淡写策略，然后在其它板块多下点功夫。（除非实在写不满一页了）
-
-**4. 语言的艺术**  
-- [ ] 简历用语要精炼，避免口水话。除此之外要**注意修饰**，举几个例子:
-  - 大创负责人可以说`作为负责人主持大创项目一项，带领团队……`或者`独立主持大创项目……`
-  - 大创高开低走可以扬长避短：`中期审查优秀，已顺利结题`
-  - `申请专利“xxx”`改成`以发明人身份提交专利“xxx”,目前正在受理中`
-  - 大创实在没成果可以说`目前已取得阶段性成果`
-  - `“小小早餐”调研队队长`改成`校园餐饮服务调研队队长`
-  - 还有一些其它的细节，比如 rk1 就不用再说百分比了
+- [ ] 简历用语要精炼，避免口水话。
 
 
 <span id="t2"></span>
 <div>
-  <h3 align="center">
-    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/notebook.png" width="40" />
+  <h3 align="left">
+    <img src="./assets/icon/notebook.png" width="40" />
       推荐信
   </h3>
 </div>
@@ -108,8 +97,8 @@
 
 <span id="t3"></span>
 <div>
-  <h3 align="center">
-    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/email.png" width="40" />
+  <h3 align="left">
+    <img src="./assets/icon/email.png" width="40" />
       套磁
   </h3>
 </div>
@@ -125,42 +114,15 @@
 张忝苟  
 电子科技大学 计算机科学与工程学院  
 E-mail: tiangou@std.uestc.edu.cn  
-Tel/Wechat: 199-2021-0916  
+Tel/Wechat: 123-4567-8900  
 
 
 <span id="t4"></span>
 <div>
-  <h3 align="center">
-    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/good.png" width="40" />
+  <h3 align="left">
+    <img src="./assets/icon/good.png" width="40" />
       确认offer
   </h3>
 </div>
 
 `张老师`您好，我是`张忝苟`，我确定来您这边读博，不会再有变数。非常感谢老师对我的认可，如果您有其它事宜嘱咐，请您随时联系我。很抱歉这么晚回复，希望没有打扰到您。谢谢老师！  
-
-
-<span id="t5"></span>
-<div>
-  <h3 align="center">
-    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/poker.png" width="40" />
-      鸽
-  </h3>
-
-
-<span id="t6"></span>
-<div>
-  <h3 align="center">
-    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/poker.png" width="40" />
-      回舔
-  </h3>
-</div>
-
-
-
-<span id="t7"></span>
-<div>
-  <h3 align="center">
-    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/poker.png" width="40" />
-      再鸽
-  </h3>
-</div>
