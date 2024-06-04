@@ -24,7 +24,7 @@
 
 
 <div>
-  <h3 align="left">
+  <h3 align="center">
     <img src="./assets/icon/inspiration.png" width="30" />
     What's New
   </h2>
@@ -37,13 +37,13 @@
 
 <span id="t1"></span>
 <div>
-  <h3 align="left">
+  <h3 align="center">
     <img src="./assets/icon/ppt.png" width="30" />
       简历
   </h2>
 </div>
 
-[【简历模板】](./assets/resume-ztg.pptx)
+[[简历模板]](./assets/resume-ztg.pptx)
 
 **1. 总览**  
 - [ ] 该模板由PPT制作，修改后可导出为PDF。
@@ -63,7 +63,7 @@
 
 <span id="t2"></span>
 <div>
-  <h3 align="left">
+  <h3 align="center">
     <img src="./assets/icon/notebook.png" width="40" />
       推荐信
   </h3>
@@ -97,7 +97,7 @@
 
 <span id="t3"></span>
 <div>
-  <h3 align="left">
+  <h3 align="center">
     <img src="./assets/icon/email.png" width="40" />
       套磁
   </h3>
@@ -119,7 +119,7 @@ Tel/Wechat: 123-4567-8900
 
 <span id="t4"></span>
 <div>
-  <h3 align="left">
+  <h3 align="center">
     <img src="./assets/icon/good.png" width="40" />
       确认offer
   </h3>
